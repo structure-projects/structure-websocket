@@ -1,0 +1,2 @@
+# structure-websocket-plugin
+webSocket
